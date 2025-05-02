@@ -1,5 +1,5 @@
 jupyter
-pandas
+pandas>=2.2.3
 shapely
 openpyxl
 matplotlib
@@ -22,3 +22,4 @@ flask_wtf
 joblib
 dash
 geopandas
+humanize

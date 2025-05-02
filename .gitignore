@@ -1,2 +1,13 @@
 # Ignore all .docx - files
 *.docx
+
+# virtuelle Umgebungen
+.venv/
+venv/
+.env/
+# Daten
+data/
+*.sqlite
+*.tsv
+*.tsv.gz
+
